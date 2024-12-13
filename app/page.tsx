@@ -4,6 +4,7 @@ export default function Home() {
     
    <>
     <h1> Hello World </h1>
+    <p> Hi i m john</p>
    </>
      
       
